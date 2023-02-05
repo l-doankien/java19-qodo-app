@@ -1,1 +1,1 @@
-# java19-qodo-app
+version: todo-app-1.0-snapshot
